@@ -10,11 +10,11 @@ This project implements a Linear Regression model to predict house prices using:
 Kaggle - House Prices Advanced Regression Techniques
 
 ## Technologies Used:
-Python
-Pandas
-Scikit-learn
-Matplotlib
+• Python
+• Pandas
+• Scikit-learn
+• Matplotlib
 
-Model Evaluation:
-Mean Squared Error (MSE)
-R² Score
+## Model Evaluation:
+• Mean Squared Error (MSE)
+• R² Score
