@@ -6,10 +6,10 @@ This project implements a Linear Regression model to predict house prices using:
 • Number of Bedrooms  
 • Number of Bathrooms  
 
-Dataset:
+## Dataset:
 Kaggle - House Prices Advanced Regression Techniques
 
-Technologies Used:
+## Technologies Used:
 Python
 Pandas
 Scikit-learn
