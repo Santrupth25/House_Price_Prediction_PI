@@ -11,7 +11,7 @@ Kaggle - House Prices Advanced Regression Techniques
 
 ## Technologies Used:
 • Python
-• Pandas
+• Pandas  
 • Scikit-learn
 • Matplotlib
 
